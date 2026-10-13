@@ -36,4 +36,20 @@ AI-Buggy aims to transform scattered information into organized actions.
 
 ## Author
 
-Your Name
+mico
+![AI-Buggy Preview](image.png)
+## Tech Stack
+
+Frontend:
+- React
+- Next.js
+- Tailwind CSS
+
+Backend:
+- FastAPI
+
+Database:
+- PostgreSQL
+
+AI:
+- Large Language Model API
