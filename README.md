@@ -35,9 +35,7 @@ AI-Buggy aims to transform scattered information into organized actions.
 - Multi-source information integration
 
 ## Author
-
-mico
-![AI-Buggy Preview](image.png)
+mijia
 ## Tech Stack
 
 Frontend:
